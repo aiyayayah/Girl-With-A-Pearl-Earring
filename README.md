@@ -12,7 +12,7 @@ I explored the core fundamentals of Blender:
 - **Rendering:** Set up the camera, adjusted render settings, and rendered the final scene using Cycles or Eevee
 
 ##  Output
-<img src="output.png" width="300" alt="Output">
+<img src="output.png" width="350" alt="Output">
 The image above showcases the final render from this project
 
 
