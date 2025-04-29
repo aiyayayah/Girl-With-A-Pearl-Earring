@@ -9,7 +9,7 @@ I explored the core fundamentals of Blender:
 - **Modelling:** Basic shape creation and sculpting
 - **Lighting:** Adjusted the direction of lights and chose appropriate light types
 - **Texturing:** Applied materials and simple shaders
-- **Rendering:** Set up the camera, adjusted render settings, and rendered the final scene using Cycles or Eevee
+- **Rendering:** Set up the camera, adjusted render settings, and rendered the final scene using Cycles 
 
 ##  Output
 <img src="output.png" width="350" alt="Output">
